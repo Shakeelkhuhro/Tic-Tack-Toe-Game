@@ -44,7 +44,7 @@ The app will be deployed to GitHub Pages, and you can access it at `https://gith
 
 ## Credits
 
-Created by Shakeel Khuhro
+Created by [Shakeel Khuhro](https://github.com/Shakeelkhuhro)
 
 ## License
 
