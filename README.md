@@ -8,7 +8,7 @@ This project is a simple implementation of the classic Tic Tac Toe game using Re
 
 ## How to Play
 
-1. Visit the [live demo](https://github.com/Shakeelkhuhro/Tic-Tack-Toe-Game) to play the game.
+1. Visit the [live demo](https://peppy-dasik-432c7c.netlify.app/) to play the game.
 2. The first player is considered as "X", and the second player is considered as "O".
 3. Click on an empty square to make a move.
 4. The game ends when a player forms a line of three symbols horizontally, vertically, or diagonally.
